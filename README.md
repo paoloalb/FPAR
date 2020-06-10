@@ -1,5 +1,5 @@
-# FPAR-Net
-#### A model capable of performing first person action recognition
+# FPAR
+#### A neural network capable of performing first person action recognition
 
 With this model we explore different methods for performing a first person action recognition task on the GTEA61
 dataset. We start by implementing a structure based on Ego-RNN: a two stream architecture that works separately
