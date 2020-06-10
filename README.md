@@ -15,13 +15,13 @@ The original Ego-RNN model makes use of class specific saliency maps, capable of
 
 Attentioned with no MS task  |  Attentioned 
 :-------------------------:|:-------------------------:
-![](gifs/close_jam_no_ms.gif)| ![](gifs/close_jam.gif)
+![](images/close_jam_no_ms.gif)| ![](images/close_jam.gif)
 
 The improvements of this task can be seen also on videos not belonging to the original GTEA61 dataset that was used for training. Here is an example with a home-made video, where we can see how the improved model tends to focus better regions of the image portraying the action.
 
 Attentioned with no MS task  |  Attentioned 
 :-------------------------:|:-------------------------:
-![](gifs/glass_attentioned_no_mstask.gif)| ![](gifs/glass_attentioned.gif)
+![](images/glass_attentioned_no_mstask.gif)| ![](images/glass_attentioned.gif)
 
 ## Two-in-one stream action detection
 
